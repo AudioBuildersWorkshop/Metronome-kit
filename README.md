@@ -3,3 +3,5 @@ Source files for the learn to solder Metronome kit created by [Audio Builders Wo
 
 Details about the kit and supplementary files can be found on the the [developer's page](https://clk.works/2018/05/audio-builders-workshop-metronome-project-source-files/). pdfs and similar files are there, the intent for the moment is to just keep a copy of the sources here.
 
+To purchase prepackaged kits please [CrowdSupply's website](https://www.crowdsupply.com/)
+
